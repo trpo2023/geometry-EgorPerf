@@ -10,7 +10,7 @@ run:
 	./Hello_world
 	
 run_geometry:
-	./geometry
+	./geometry figures.wkt
 	
 clean:
 	rm Hello_world
